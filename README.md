@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tejaswinivannela/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Tejaswinivannela/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Tejaswinivannela/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0038-count-and-say](https://github.com/Tejaswinivannela/Leetcode/tree/master/0038-count-and-say) |
 ## Dynamic Programming
 |  |
 | ------- |
