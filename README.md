@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Tejaswinivannela/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Tejaswinivannela/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Tejaswinivannela/Leetcode/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/Tejaswinivannela/Leetcode/tree/master/0058-length-of-last-word) |
 ## Dynamic Programming
 |  |
 | ------- |
