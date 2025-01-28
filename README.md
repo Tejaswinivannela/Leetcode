@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Tejaswinivannela/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Tejaswinivannela/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Tejaswinivannela/Leetcode/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/Tejaswinivannela/Leetcode/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Tejaswinivannela/Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Tejaswinivannela/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Tejaswinivannela/Leetcode/tree/master/0039-combination-sum) |
+| [0066-plus-one](https://github.com/Tejaswinivannela/Leetcode/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
 | ------- |
