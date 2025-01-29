@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Tejaswinivannela/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Tejaswinivannela/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Tejaswinivannela/Leetcode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Tejaswinivannela/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Tejaswinivannela/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Tejaswinivannela/Leetcode/tree/master/0067-add-binary) |
 ## Dynamic Programming
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tejaswinivannela/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tejaswinivannela/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Tejaswinivannela/Leetcode/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Tejaswinivannela/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Tejaswinivannela/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Tejaswinivannela/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Tejaswinivannela/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Tejaswinivannela/Leetcode/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Tejaswinivannela/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Tejaswinivannela/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Tejaswinivannela/Leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Tejaswinivannela/Leetcode/tree/master/0049-group-anagrams) |
 ## Backtracking
 |  |
 | ------- |
