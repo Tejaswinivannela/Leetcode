@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Tejaswinivannela/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Tejaswinivannela/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Tejaswinivannela/Leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Tejaswinivannela/Leetcode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tejaswinivannela/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tejaswinivannela/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Tejaswinivannela/Leetcode/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/Tejaswinivannela/Leetcode/tree/master/0202-happy-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Tejaswinivannela/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Tejaswinivannela/Leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Tejaswinivannela/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/Tejaswinivannela/Leetcode/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
