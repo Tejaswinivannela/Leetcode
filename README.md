@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Tejaswinivannela/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Tejaswinivannela/Leetcode/tree/master/0067-add-binary) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Tejaswinivannela/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 ## Simulation
 |  |
 | ------- |
