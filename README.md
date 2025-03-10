@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Tejaswinivannela/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Tejaswinivannela/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Tejaswinivannela/Leetcode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/Tejaswinivannela/Leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Tejaswinivannela/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Tejaswinivannela/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tejaswinivannela/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0203-remove-linked-list-elements](https://github.com/Tejaswinivannela/Leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Hash Table
 |  |
 | ------- |
