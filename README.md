@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Tejaswinivannela/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Tejaswinivannela/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Tejaswinivannela/Leetcode/tree/master/0067-add-binary) |
+| [0205-isomorphic-strings](https://github.com/Tejaswinivannela/Leetcode/tree/master/0205-isomorphic-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tejaswinivannela/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Tejaswinivannela/Leetcode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/Tejaswinivannela/Leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Tejaswinivannela/Leetcode/tree/master/0205-isomorphic-strings) |
 ## Sliding Window
 |  |
 | ------- |
