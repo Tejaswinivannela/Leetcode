@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Tejaswinivannela/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Tejaswinivannela/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Tejaswinivannela/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Tejaswinivannela/Leetcode/tree/master/0204-count-primes) |
 ## String
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Tejaswinivannela/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Tejaswinivannela/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Tejaswinivannela/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0204-count-primes](https://github.com/Tejaswinivannela/Leetcode/tree/master/0204-count-primes) |
 ## Binary Search
 |  |
 | ------- |
@@ -186,4 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Tejaswinivannela/Leetcode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tejaswinivannela/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Tejaswinivannela/Leetcode/tree/master/0112-path-sum) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Tejaswinivannela/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Tejaswinivannela/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
